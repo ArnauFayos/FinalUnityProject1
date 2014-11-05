@@ -1,4 +1,4 @@
 Final Unity Project
 -------------------
 
-This is a tests project!
+This is a test project!
